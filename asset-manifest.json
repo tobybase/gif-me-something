@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/tobybase/gif-me-something/static/css/main.ebbb26cf.css",
+    "main.js": "/tobybase/gif-me-something/static/js/main.2e774140.js",
+    "index.html": "/tobybase/gif-me-something/index.html",
+    "main.ebbb26cf.css.map": "/tobybase/gif-me-something/static/css/main.ebbb26cf.css.map",
+    "main.2e774140.js.map": "/tobybase/gif-me-something/static/js/main.2e774140.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ebbb26cf.css",
+    "static/js/main.2e774140.js"
+  ]
+}
